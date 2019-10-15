@@ -1,0 +1,14 @@
+jupyter
+requests
+responses
+bs4
+plotly
+cufflinks
+heapdict
+pandas
+numpy
+scipy
+pysqlite3
+matplotlib
+gmaps
+-e git+https://github.com/gauravmm/jupyter-testing.git#egg=jupyter-testing
